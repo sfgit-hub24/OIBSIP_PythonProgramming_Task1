@@ -27,7 +27,7 @@ The application calculates BMI based on user input, stores data in a CSV file, a
 ###  Demo Video
 Watch the demonstration here:
 
-[Demo Video](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[Demo Video](https://youtu.be/XCFn01q3BwI)
 
 ### Outcome
 This project demonstrates GUI development, file handling, and data visualization using Python.
